@@ -1,4 +1,4 @@
-### Bem vindo, eu sou o Vitor 👋
+### Bem vindo!
 
 - 🔭 Sou Desenvolvedor Front End.
 - 📓 Fiz o Bootcamp da Ironhack (Web Dev Full Stack).
